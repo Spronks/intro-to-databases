@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-databases",
+  "version": "1.0.0",
+  "description": "Follow along with Intro to databases from FrontendMasters.com: https://frontendmasters.com/courses/databases/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spronks/intro-to-databases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spronks/intro-to-databases/issues"
+  },
+  "homepage": "https://github.com/Spronks/intro-to-databases#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.4.1"
+  }
+}
